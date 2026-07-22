@@ -1,4 +1,3 @@
 Takeshi,30,ボウリング
-Yamada,25,野球
 Suzuki,40,ゴルフ
 Sato,22,サッカー
