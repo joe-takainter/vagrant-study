@@ -1,5 +1,5 @@
-Takeshi,30,ボウリング
+Takeshi,31,旅行
 Suzuki,40,ゴルフ
-Sato,22,サッカー
+Takaaki,25,ピアノ
 Sato,22,サッカー
 Suzuki,40,ゴルフ
