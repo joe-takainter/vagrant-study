@@ -1,3 +1,5 @@
 Takeshi,30,ボウリング
 Suzuki,40,ゴルフ
 Sato,22,サッカー
+Sato,22,サッカー
+Suzuki,40,ゴルフ
