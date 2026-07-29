@@ -106,7 +106,10 @@ elif menu == "4":
             print("年齢：", person["age"])
             print("趣味：", person["hobby"])
             
-            person["name"] = input("新しい名前：")
+            new_name = input("新しい名前（変更しない場合はEnter）：").strip()
+
+            if new_name != "":
+               person["name"] = new_name
             person["age"] = input("新しい年齢：")
             person["hobby"] = input("新しい趣味：")
 
