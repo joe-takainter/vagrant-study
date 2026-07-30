@@ -1,5 +1,3 @@
-Takeshi,33,ギター
 Suzuki,40,ゴルフ
 Takaaki,25,ピアノ
-Sato,22,サッカー
 Suzuki,40,ゴルフ
